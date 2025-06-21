@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Ridhimaa Dawar
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any project that can help me learn and grow
-- 📫 How to reach me
-  email: dridhimaa@gmail.com
+# Hi, I'm Ridhimaa Dawar! 👋
 
-<!---
-ridhimaadawar/ridhimaadawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA Student at IPU (BCIIT) | 🌱 Passionate Developer | 💡 Building impactful projects
+
+I'm currently in my 3rd semester of MCA and exploring the world of software development, full-stack projects, and data structures. I've built meaningful projects like:
+
+- 🔗 [URL Shortener](#) – A simple, clean link shortener using Flask & Python  
+- 🌍 [CarbonWise](#) – Track & reduce your carbon footprint with tips & insights  
+- 🎓 [Student Portal](#) – Resource hub for BCIIT students  
+- ✍️ Essay Helper (Concept stage)  
+
+I'm also a team leader & community contributor:
+- 🛠 Project Manager at NSS BCIIT  
+- ✍️ Vice President of Blogging Club  
+- 🏅 2nd Place – Tug of War (IPU Sports Meet 2023, Team Captain)
+
+📫 Reach me at: dridhimaa@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ridhimaa-dawar-6951a4256)
