@@ -23,5 +23,5 @@ I'm also a team leader & community contributor:
 ### 🌐 Connect with Me
 - [Stack Overflow](stackoverflow.com/users/31089648/ridhimaa-dawar)
 - [WordPress.org Profile](https://profiles.wordpress.org/ridhimaadawar/)
-🔗 [LinkedIn](https://www.linkedin.com/in/ridhimaa-dawar-6951a4256)
+- [LinkedIn](https://www.linkedin.com/in/ridhimaa-dawar-6951a4256)
 
