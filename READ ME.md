@@ -12,8 +12,16 @@ I'm currently in my 3rd semester of MCA and exploring the world of software deve
 I'm also a team leader & community contributor:
 - 🛠 Project Manager at NSS BCIIT  
 - ✍️ Vice President of Blogging Club  
-- 🏅 2nd Place – Tug of War (IPU Sports Meet 2023, Team Captain)
+
+### 🔧 Tech Stack
+- Languages: Java, Elixir, Python, C++, PHP, MySQL
+- Web: HTML, CSS, JavaScript, WordPress
+- Tools: Git, GitHub, VS Code
 
 📫 Reach me at: dridhimaa@gmail.com
 
+### 🌐 Connect with Me
+- [Stack Overflow](stackoverflow.com/users/31089648/ridhimaa-dawar)
+- [WordPress.org Profile](https://profiles.wordpress.org/ridhimaadawar/)
 🔗 [LinkedIn](https://www.linkedin.com/in/ridhimaa-dawar-6951a4256)
+
