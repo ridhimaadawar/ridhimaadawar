@@ -10,8 +10,8 @@ I'm currently in my 3rd semester of MCA and exploring the world of software deve
 - ✍️ Essay Helper (Concept stage)  
 
 I'm also a team leader & community contributor:
-- 🛠 Project Manager at NSS BCIIT  
-- ✍️ Vice President of Blogging Club  
+- 🛠 Ex-Project Manager at NSS TIPS
+- ✍️ Ex-Vice President of Blogging Club  
 
 ### 🔧 Tech Stack
 - Languages: Java, Elixir, Python, C++, PHP, MySQL
